@@ -1,7 +1,7 @@
 #### This is a plugin for https://www.tinymce.com/ that allows you to insert accordions into the editor.
 
 
-#### To use this plugin, add the name accordion to your plugins array upon tinymce init and then add it to whichever toolbar you'd like it to live on. 
+#### Base on https://github.com/JacobPrice/tinymce-accordion-plugin
 
 ### After clicking on the button it will prompt for a number. It will parse this number and output the desired amount of bootstrap accordions. 
 ###
